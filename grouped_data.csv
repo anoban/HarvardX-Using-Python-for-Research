@@ -1,0 +1,10 @@
+,language,frequency,mean_word_length,num_words
+frequent,1,frequent,4.371517027863777,323
+infrequent,1,infrequent,5.825242718446602,1442
+unique,1,unique,7.005675029868578,3348
+frequent,2,frequent,4.528052805280528,303
+infrequent,2,infrequent,6.481829573934837,1596
+unique,2,unique,9.00698674310283,5582
+frequent,3,frequent,4.417624521072797,261
+infrequent,3,infrequent,6.497869750456482,1643
+unique,3,unique,8.669777860742952,5357
